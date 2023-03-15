@@ -1,0 +1,24 @@
+{
+  "name": "reduxtoolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyaa23/Reduxtoolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adithyaa23/Reduxtoolkit/issues"
+  },
+  "homepage": "https://github.com/adithyaa23/Reduxtoolkit#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
+ 
